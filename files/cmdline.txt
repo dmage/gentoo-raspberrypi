@@ -1,0 +1,1 @@
+console=tty1 ip=dhcp root=/dev/nfs nfsroot=192.168.1.2:/diskless/raspberrypi elevator=deadline rootwait
